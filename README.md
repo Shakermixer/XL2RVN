@@ -15,7 +15,7 @@ Yeeehaw.
 ### Rationale
 
 I am big fan of the Xen Crypto Eco and Ravencoin was the first i mined on a RTX 2070 in 2022! 
-Somehow i had this crazy idea of Xen and it's derivativs on the Ravencoin blockchain.
+Somehow i had this crazy idea of Xen and it's derivatives on the Ravencoin blockchain.
 The principles incorporated in XEN & RVN deserve to be promoted in Crypto!
 That is what i think.
 
@@ -24,7 +24,7 @@ That is what i think.
 
 #### Ethereum 
 
-smart contract platform on a L1 blockchain which shifted recently from PoW to PoS with underlying token called Ether. 
+Smart contract platform on a L1 blockchain which shifted recently from PoW to PoS with underlying token called Ether. 
 
 The underlying EVM represents a shared state machine that consumes opcodes, which can be compiled from Solidity or Vyper. 
 
@@ -47,7 +47,7 @@ https://coinmarketcap.com/currencies/ethereum/
 
 
 #### Layer 1 
-refers to a base network, such as Bitcoin, BNB Chain, or Ethereum, and its underlying infrastructure. Layer-1 blockchains can validate and finalize transactions without the need for another network. Making improvements to the scalability of layer-1 networks is difficult, as we’ve seen with Bitcoin. As a solution, developers create layer-2 protocols that rely on the layer-1 network for security and consensus. Bitcoin's Lightning Network is one example of a layer-2 protocol. It allows users to make transactions freely before recording them into the main chain.
+refers to a base network, such as Bitcoin, BNB Chain, Ethereum or Ravencoin and its underlying infrastructure. Layer-1 blockchains can validate and finalize transactions without the need for another network. Making improvements to the scalability of layer-1 networks is difficult, as we’ve seen with Bitcoin. As a solution, developers create layer-2 protocols that rely on the layer-1 network for security and consensus. Bitcoin's Lightning Network is one example of a layer-2 protocol. It allows users to make transactions freely before recording them into the main chain.
 
 
 #### Layer 2 
@@ -77,17 +77,47 @@ https://github.com/FairCrypto
 
 Xen is deployed on the following chains:
 
-* Avalanche	
-* Binance	
-* Dogechain	
-* Ethereum	
-* Ethereum POW	
-* Evmos	
-* Fantom	
-* Moonbeam	
-* OKX Chain	
-* PLSTestV4	
+* Avalanche:
+  Contract:   aXen | 0xC0C5AA69Dbe4d6DDdfBc89c0957686ec60F24389
+  
+   
+* Binance:
+  Contract:   bXen | 0x2AB0e9e4eE70FFf1fB9D67031E44F6410170d00e
+  
+   
+* Dogechain:
+  Contract:    dcXen | 0x948eed4490833D526688fD1E5Ba0b9B35CD2c32e
+  
+   
+* Ethereum:
+  Contract:    Xen | 0x06450dEe7FD2Fb8E39061434BAbCFC05599a6Fb8
+  
+ 
+* Ethereum POW:
+  Contract:    vvxen | 0x2AB0e9e4eE70FFf1fB9D67031E44F6410170d00e
+  
+   
+* Evmos
+  Contract:    coXen | 0x2AB0e9e4eE70FFf1fB9D67031E44F6410170d00e
+  
+  
+* Fantom
+  Contract:    fmXen | 0xf65D307365C19E07A9EaB7Fc8EaAB28600C8FA54
+  
+* Moonbeam
+  Contract:    mbXen | 0xb564A5767A00Ee9075cAC561c427643286F8F4E1
+  
+ 
+* OKX Chain
+  Contract:    okXen | 0x1cC4D981e897A3D2E7785093A648c0a75fAd0453
+  
+  
+* Pulsechain:
+  Contract:    pXen | 0x8a7FDcA264e87b6da72D000f22186B4403081A2a
+  
+   
 * Polygon
+  Contract:    mXen | 0x2AB0e9e4eE70FFf1fB9D67031E44F6410170d00e
 
 
 
@@ -97,7 +127,7 @@ is a layer 2 or L2 scaling protocol normally tailored for extending the throughp
 
 #### Ravencoin
 
-is a peer-to-peer blockchain, handling the efficient creation and transfer of assets from one party to another. 
+is a peer-to-peer blockchain, handling the efficient creation and transfer of assets from one party to another. It's consensus mechanism is based on PoW
 
 https://ravencoin.org/
 https://ravencoin.org/assets/documents/Ravencoin.pdf
@@ -113,7 +143,7 @@ https://www.coingecko.com/en/coins/ravencoin
 #### Sidechain
 secondary blockchain with it's own consensus protocol. Prominent example is the Polygon chain.
 
-https://github.com/0xPolygon
+
 
 <a title="Gentlejack35, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Blockstream.jpg"><img width="512" alt="Blockstream" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Blockstream.jpg/512px-Blockstream.jpg"></a>
 
@@ -156,11 +186,17 @@ mines ethash coins like ETHW,ETHF etc...
 
 
 ### Tech
+
 A place for details, snippets and the low level stuff to master 
 
-### Possible Ways 
-* A L2 to RVN with EVM functionality (input by blackTron)
-* the NFT contains the Xen contract code and data as metadata, as no smart contract is needed on the #RVN side for minting NFTs. This content can be interpreted by scripts and the NFTs are already tradable natively. With a #Xen token on #RVN, to hold account.
+
+### Possible Ways
+
+* A L2 to RVN with EVM functionality (input by BlackTron)
+  
+* NFT contains the Xen contract code and data as metadata, as no smart contract is needed on the #RVN side for minting NFTs. This content can be interpreted by scripts and the NFTs are already tradable natively. With a #Xen token on #RVN, to hold account.
+  
+* Include in the metadata a minified evm interpreter, which can be injected in the DOM or by similar mechanism, kind of #quine. Is that possible?
 
 
 
