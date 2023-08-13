@@ -2,7 +2,7 @@
 ## A collection of Ideas to bring Xen to the Ravencoin Chain
 
 
-### How could Xen, XenNFT and DBXen and Fenix be used on the Ravencoin blockchain? 
+### How could Xen, XenNFT and the derivatives like DBXen, Fenix, XenDog be brought/used on the Ravencoin Rlockchain? 
 This question is the motivation of this repo.
 
 The README is the primary container for text to collect, to describe concepts, which are needed, useful or help.
