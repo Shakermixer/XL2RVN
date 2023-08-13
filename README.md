@@ -28,3 +28,6 @@ decentralization, transparency, counterparty risk resistance, peer-to-peer
 value exchange and self-custody. Its unique tokenomics focuses on the mass
 market adoption with the lowest barrier to entry compared to the rest of
 coins on the market today.
+
+https://faircrypto.org/xencryptolp.pdf
+
