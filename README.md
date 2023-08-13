@@ -121,6 +121,8 @@ https://ethereum.org/en/developers/docs/consensus-mechanisms/pow/mining-algorith
 
 #### Ravencoin Docs
 
+https://ravencoin.org/assets/documents/Ravencoin.pdf
+
 https://github.com/RavenProject/Ravencoin/blob/master/doc/README.md
 
 
@@ -138,6 +140,7 @@ mines ethash coins like ETHW,ETHF etc...
 ### Tech
 
 ### Outline of the Idea
+
 
 
 
