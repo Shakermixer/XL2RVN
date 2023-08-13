@@ -37,6 +37,8 @@ https://faircrypto.org/xencryptolp.pdf
 
 https://xen.network/
 
+https://github.com/FairCrypto
+
 
 #### Optimistic Rollup 
 is a layer 2 or L2 scaling protocol normally tailored for extending the throughput associated with the base layer of Ethereum. In this case the goal would be to achieve EVM functionality with the base layer 1 being the Ravencoin Blockchain.
@@ -53,6 +55,7 @@ https://github.com/RavenProject/Ravencoin
 #### Sidechain
 secondary blockchain with it's own consensus protocol. Prominent example is the Polygon chain.
 
+https://github.com/0xPolygon
 
 <a title="Gentlejack35, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Blockstream.jpg"><img width="512" alt="Blockstream" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Blockstream.jpg/512px-Blockstream.jpg"></a>
 
@@ -60,5 +63,9 @@ secondary blockchain with it's own consensus protocol. Prominent example is the 
 #### zk-Rollups
 Layer 2 blockchain solution that performs computations and storage off-chain while funds are held in a smart contract.
 Prominent examples are Polygon zkEVM and zkSync Era.
+
+#### Polygon 
+has a very popular side chain with it's own consesus mechanism and it's own token MATIC
+
 
 
