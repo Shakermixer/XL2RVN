@@ -57,6 +57,9 @@ https://xen.network/
 
 https://github.com/FairCrypto
 
+Ecosystem: 
+
+
 
 #### Optimistic Rollup 
 is a layer 2 or L2 scaling protocol normally tailored for extending the throughput associated with the base layer of Ethereum. In this case the goal would be to achieve EVM functionality with the base layer 1 being the Ravencoin Blockchain.
