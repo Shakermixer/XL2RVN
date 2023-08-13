@@ -10,6 +10,15 @@ Feel free to contribute.
 
 Yeeehaw.
 
+
+### Rationale
+I am big fan of the Xen Crypto Eco and Ravencoin was the first i mined on a RTX 2070 in 2022! 
+Somehow i had this crazy idea of Xen and it's derivativs on the Ravencoin blockchain.
+The principles incorporated in XEN & RVN desrve to b promoted in Crypto!
+That is what i think.
+
+
+
 ### High Level Perspective (Definitions, Entities & Terminology):
 
 #### Ethereum 
