@@ -10,12 +10,11 @@ Feel free to contribute.
 
 Yeeehaw.
 
-### 
-
-High Level Perspective (Definitions, Entities & Terminology):
+### High Level Perspective (Definitions, Entities & Terminology):
 
 #### Ethereum 
 smart contract platform on a L1 blockchain which shifted recently from PoW to PoS with underlying token called Ether. 
+
 https://www.coingecko.com/en/coins/ethereum
 https://coinmarketcap.com/currencies/ethereum/
 The EVM represents a shared state machine that consumes opcodes. 
@@ -55,9 +54,12 @@ is a layer 2 or L2 scaling protocol normally tailored for extending the throughp
 
 #### Ravencoin
 is a peer-to-peer blockchain, handling the efficient creation and transfer of assets from one party to another.
+
 https://ravencoin.org/
 https://raven.wiki/w/Ravencoin_Wiki
 https://github.com/RavenProject/Ravencoin
+https://coinmarketcap.com/currencies/ravencoin/
+https://www.coingecko.com/en/coins/ravencoin
 
 
 
@@ -75,6 +77,15 @@ Prominent examples are Polygon zkEVM and zkSync Era.
 
 #### Polygon 
 has a very popular side chain with it's own consesus mechanism and it's own token MATIC
+
+
+### Deeper Dive and Concepts explained:
+#### Ethereum 
+https://ethereum.org/en/developers/ starting point for devlopping apps & contracts based on VM.
+
+
+
+
 
 
 
