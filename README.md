@@ -39,7 +39,7 @@ https://xen.network/
 
 
 #### Optimistic Rollup 
-is a layer 2 or L2 scaling protocol normally tailored for extending the throughput associated with the base layer of Ethereum. In this case the goal would be to achive EVM functionality with the base layer 1 being the Ravencoin Blockchain.
+is a layer 2 or L2 scaling protocol normally tailored for extending the throughput associated with the base layer of Ethereum. In this case the goal would be to achieve EVM functionality with the base layer 1 being the Ravencoin Blockchain.
 
 
 #### Sidechain
@@ -47,5 +47,7 @@ secondary blockchain with it's own consensus protocol. Prominent example is the 
 
 <a title="Gentlejack35, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Blockstream.jpg"><img width="512" alt="Blockstream" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Blockstream.jpg/512px-Blockstream.jpg"></a>
 
+
+#### zk-Rollups
 
 
