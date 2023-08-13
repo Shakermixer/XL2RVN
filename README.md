@@ -19,6 +19,7 @@ smart contract platform on a L1 blockchain which shifted recently from PoW to Po
 The EVM represents a shared state machine that consumes opcodes. 
 
 Several forks of the implementation exist:
+
 https://github.com/OffchainLabs/go-ethereum
 
 https://www.coingecko.com/en/coins/ethereum
@@ -84,13 +85,21 @@ has a very popular side chain with it's own consesus mechanism and it's own toke
 
 
 ### Deeper Dive and Concepts explained:
+
 #### Ethereum 
 https://ethereum.org/en/developers/ starting point for devlopping apps & contracts based on EVM.
+
 #### Minining Algorithms
+
 https://ethereum.org/en/developers/docs/consensus-mechanisms/pow/mining-algorithms/
+
+#### Ravencoin Docs
+
+https://github.com/RavenProject/Ravencoin/blob/master/doc/README.md
 
 
 ### Tools of the Trade:
+
 #### Miners:
 
 https://github.com/RavenCommunity/kawpowminer/releases 
