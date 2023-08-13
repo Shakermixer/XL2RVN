@@ -116,10 +116,13 @@ https://github.com/RavenCommunity/kawpowminer/releases
 mines RVN.
 
 https://github.com/ethereum-mining/ethminer
-mines ethash coins like ETHW,ETHF etc
+mines ethash coins like ETHW,ETHF etc...
 
 
 ### Tech
+
+### Outline of the Idea
+
 
 
 
