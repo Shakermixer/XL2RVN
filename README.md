@@ -82,9 +82,11 @@ is a layer 2 or L2 scaling protocol normally tailored for extending the throughp
 
 
 #### Ravencoin
-is a peer-to-peer blockchain, handling the efficient creation and transfer of assets from one party to another.
+
+is a peer-to-peer blockchain, handling the efficient creation and transfer of assets from one party to another. 
 
 https://ravencoin.org/
+https://ravencoin.org/assets/documents/Ravencoin.pdf
 https://raven.wiki/w/Ravencoin_Wiki
 https://github.com/RavenProject/Ravencoin
 
