@@ -1,4 +1,5 @@
 # XL2RVN
+
 ## A collection of Ideas to bring Xen to the Ravencoin Chain
 
 
@@ -12,24 +13,29 @@ Yeeehaw.
 
 
 ### Rationale
+
 I am big fan of the Xen Crypto Eco and Ravencoin was the first i mined on a RTX 2070 in 2022! 
 Somehow i had this crazy idea of Xen and it's derivativs on the Ravencoin blockchain.
-The principles incorporated in XEN & RVN desrve to b promoted in Crypto!
+The principles incorporated in XEN & RVN deserve to be promoted in Crypto!
 That is what i think.
-
 
 
 ### High Level Perspective (Definitions, Entities & Terminology):
 
 #### Ethereum 
+
 smart contract platform on a L1 blockchain which shifted recently from PoW to PoS with underlying token called Ether. 
 
+The underlying EVM represents a shared state machine that consumes opcodes, which can be compiled from Solidity or Vyper. 
 
-The EVM represents a shared state machine that consumes opcodes. 
 
-Several forks of the implementation exist aside from th official one:
+##### Geth
+
+Official Golang execution layer implementation of the Ethereum protocol.
 
 https://github.com/ethereum/go-ethereum
+
+Several forks exist aside from the official one, like:
 
 https://github.com/OffchainLabs/go-ethereum
 
@@ -150,8 +156,11 @@ mines ethash coins like ETHW,ETHF etc...
 
 
 ### Tech
+A place for details, snippets and the low level stuff to master 
 
-### Outline of the Idea
+### Possible Ways 
+* A L2 to RVN with EVM functionality (an ida by black
+
 
 
 
