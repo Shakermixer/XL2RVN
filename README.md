@@ -20,3 +20,11 @@ refers to any off-chain network, system, or technology built on top of a blockch
 
 #### EVM 
 run-time environment for smart contracts. Very popular, because most Layer 2 networks and side chains are compatible with evm code. As a matter of fact, the dev tooling and deploying are nearly identical.  
+
+#### XEN 
+is a universal cryptocurrency to
+achieve the original mission of Blockchain, following the Blockchain Tenets of
+decentralization, transparency, counterparty risk resistance, peer-to-peer
+value exchange and self-custody. Its unique tokenomics focuses on the mass
+market adoption with the lowest barrier to entry compared to the rest of
+coins on the market today.
