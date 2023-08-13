@@ -33,3 +33,5 @@ https://faircrypto.org/xencryptolp.pdf
 
 https://xen.network/
 
+#### Optimistic Rollup is a layer 2 or L2 scaling protocol tailored for extending the throughput associated with the base layer of Ethereum. In this case the goal would be to achive EVM functionality.
+
