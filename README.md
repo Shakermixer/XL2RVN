@@ -23,6 +23,7 @@ Several forks of the implementation exist:
 https://github.com/OffchainLabs/go-ethereum
 
 https://www.coingecko.com/en/coins/ethereum
+
 https://coinmarketcap.com/currencies/ethereum/
 
 
@@ -106,7 +107,10 @@ https://github.com/RavenCommunity/kawpowminer/releases
 mines RVN.
 
 https://github.com/ethereum-mining/ethminer
-mines ethash coins like ETHW,ETHF etc. 
+mines ethash coins like ETHW,ETHF etc
+
+
+### Tech
 
 
 
