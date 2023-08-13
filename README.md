@@ -58,5 +58,7 @@ secondary blockchain with it's own consensus protocol. Prominent example is the 
 
 
 #### zk-Rollups
+Layer 2 blockchain solution that performs computations and storage off-chain while funds are held in a smart contract.
+Prominent examples are Polygon zkEVM and zkSync Era.
 
 
