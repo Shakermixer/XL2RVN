@@ -38,7 +38,6 @@ refers to a base network, such as Bitcoin, BNB Chain, or Ethereum, and its under
 #### Layer 2 
 refers to any off-chain network, system, or technology built on top of a blockchain (commonly known as a layer-1 network) that helps extend the capabilities of the underlying base layer network. Layer-2 networks can support any blockchain to introduce enhancements such as higher transaction throughputs. In regards of this repo, the main motivation is to achieve a special EVM functionality, which enables the use of the XEN Cryptocurrency and it's derivatives. The Ravencoin Chain is very fast and not expensive at all.
 
-#### List of EVM Chains that
 #### EVM 
 run-time environment for smart contracts. Very popular, because most Layer 2 networks and side chains are compatible with evm code. As a matter of fact, the dev tooling and deploying are nearly identical.  
 
