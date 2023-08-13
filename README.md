@@ -42,8 +42,17 @@ https://xen.network/
 is a layer 2 or L2 scaling protocol normally tailored for extending the throughput associated with the base layer of Ethereum. In this case the goal would be to achieve EVM functionality with the base layer 1 being the Ravencoin Blockchain.
 
 
+#### Ravencoin
+is a peer-to-peer blockchain, handling the efficient creation and transfer of assets from one party to another.
+https://ravencoin.org/
+https://raven.wiki/w/Ravencoin_Wiki
+https://github.com/RavenProject/Ravencoin
+
+
+
 #### Sidechain
 secondary blockchain with it's own consensus protocol. Prominent example is the Polygon chain.
+
 
 <a title="Gentlejack35, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Blockstream.jpg"><img width="512" alt="Blockstream" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Blockstream.jpg/512px-Blockstream.jpg"></a>
 
