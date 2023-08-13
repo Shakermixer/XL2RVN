@@ -18,9 +18,13 @@ smart contract platform on a L1 blockchain which shifted recently from PoW to Po
 
 The EVM represents a shared state machine that consumes opcodes. 
 
-Several forks of the implementation exist:
+Several forks of the implementation exist aside from th official one:
+
+https://github.com/ethereum/go-ethereum
 
 https://github.com/OffchainLabs/go-ethereum
+
+##### Token Stats:
 
 https://www.coingecko.com/en/coins/ethereum
 
@@ -64,6 +68,8 @@ is a peer-to-peer blockchain, handling the efficient creation and transfer of as
 https://ravencoin.org/
 https://raven.wiki/w/Ravencoin_Wiki
 https://github.com/RavenProject/Ravencoin
+
+##### Token Stats:
 https://coinmarketcap.com/currencies/ravencoin/
 https://www.coingecko.com/en/coins/ravencoin
 
