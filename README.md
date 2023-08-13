@@ -119,6 +119,8 @@ https://ethereum.org/en/developers/ starting point for devlopping apps & contrac
 
 #### Minining Algorithms
 
+https://ravencoin.org/assets/documents/X16R-Whitepaper.pdf
+
 https://ethereum.org/en/developers/docs/consensus-mechanisms/pow/mining-algorithms/
 
 #### Ravencoin Docs
