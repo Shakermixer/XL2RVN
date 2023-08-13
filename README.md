@@ -10,7 +10,16 @@ Feel free to contribute.
 
 Yeeehaw.
 
-### Definitions, Entities & Terminology:
+### 
+
+High Level Perspective (Definitions, Entities & Terminology):
+
+#### Ethereum 
+smart contract platform on a L1 blockchain which shifted recently from PoW to PoS with underlying token called Ether. 
+https://www.coingecko.com/en/coins/ethereum
+https://coinmarketcap.com/currencies/ethereum/
+The EVM represents a shared state machine that consumes opcodes. 
+https://github.com/OffchainLabs/go-ethereum
 
 
 #### Layer 1 
