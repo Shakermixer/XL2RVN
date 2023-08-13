@@ -8,3 +8,4 @@ The README is the primary container for text to collect, to describe concepts, w
 Feel free to contribute.
 
 Yeeehaw.
+### Definitions and terminology:
