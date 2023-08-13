@@ -159,7 +159,9 @@ mines ethash coins like ETHW,ETHF etc...
 A place for details, snippets and the low level stuff to master 
 
 ### Possible Ways 
-* A L2 to RVN with EVM functionality (an ida by black
+* A L2 to RVN with EVM functionality (input by blackTron)
+* the NFT contains the Xen contract code and data as metadata, as no smart contract is needed on the #RVN side for minting NFTs. This content can be interpreted by scripts and the NFTs are already tradable natively. With a #Xen token on #RVN, to hold account.
+
 
 
 
