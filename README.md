@@ -51,13 +51,29 @@ value exchange and self-custody. Its unique tokenomics focuses on the mass
 market adoption with the lowest barrier to entry compared to the rest of
 coins on the market today.
 
+https://github.com/FairCrypto/XEN-crypto
+
 https://faircrypto.org/xencryptolp.pdf
 
 https://xen.network/
 
 https://github.com/FairCrypto
 
-Ecosystem: 
+##### Ecosystem: 
+
+Xen is deployed on the following chains:
+
+* Avalanche	
+* Binance	
+* Dogechain	
+* Ethereum	
+* Ethereum POW	
+* Evmos	
+* Fantom	
+* Moonbeam	
+* OKX Chain	
+* PLSTestV4	
+* Polygon
 
 
 
