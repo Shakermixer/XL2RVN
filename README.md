@@ -26,7 +26,7 @@ That is what i think.
 
 Smart contract platform on a L1 blockchain which shifted recently from PoW to PoS with underlying token called Ether. 
 
-The underlying EVM represents a shared state machine that consumes opcodes, which can be compiled from Solidity or Vyper. 
+The underlying EVM represents a shared state machine with Turing Completeness that consumes opcodes, which can be compiled from Solidity or Vyper. 
 
 
 ##### Geth
