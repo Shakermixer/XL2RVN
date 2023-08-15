@@ -127,7 +127,7 @@ is a layer 2 or L2 scaling protocol normally tailored for extending the throughp
 
 #### Ravencoin
 
-is a peer-to-peer blockchain, handling the efficient creation and transfer of assets from one party to another. It's consensus mechanism is based on PoW
+is a peer-to-peer blockchain, handling the efficient creation and transfer of assets from one party to another. It's consensus mechanism is based on PoW in such way that no ASIC can be used to mine.
 
 https://ravencoin.org/
 https://ravencoin.org/assets/documents/Ravencoin.pdf
