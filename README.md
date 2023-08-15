@@ -192,6 +192,7 @@ A place for details, snippets and the low level stuff to master. I will add "Tas
 
 ### Tasks:
 #### I.  Feed this readme into TW to publish a site with interactivity like codepen functionality and such (clarify or list)
+
          Motivation:A website is needed to communmicate and aggregate the stuff.
 
          Status: wip.
@@ -200,7 +201,7 @@ A place for details, snippets and the low level stuff to master. I will add "Tas
 
          Motivation: In August 2023 Uniswap decided to block Hex Currency, Jack L. mentioned, that the community should provide an alternative to call            the contract code. I take this as a practice.
 
-         Status: tbd.
+         Status: tbd, next step.
 
 ### Possible Ways
 
