@@ -20,7 +20,7 @@ The principles incorporated in XEN & RVN deserve to be promoted in Crypto!
 That is what i think.
 
 
-### High Level Perspective (Definitions, Entities & Terminology):
+### High Level Perspective (Terminology):
 
 #### Ethereum 
 
