@@ -78,42 +78,42 @@ https://github.com/FairCrypto
 Xen is deployed on the following chains:
 
 * Avalanche:
-  Contract:   aXen | 0xC0C5AA69Dbe4d6DDdfBc89c0957686ec60F24389
+  Contract:         aXen | 0xC0C5AA69Dbe4d6DDdfBc89c0957686ec60F24389
   
    
 * Binance:
-  Contract:   bXen | 0x2AB0e9e4eE70FFf1fB9D67031E44F6410170d00e
+  Contract:         bXen | 0x2AB0e9e4eE70FFf1fB9D67031E44F6410170d00e
   
    
 * Dogechain:
-  Contract:    dcXen | 0x948eed4490833D526688fD1E5Ba0b9B35CD2c32e
+  Contract:        dcXen | 0x948eed4490833D526688fD1E5Ba0b9B35CD2c32e
   
    
 * Ethereum:
-  Contract:    Xen | 0x06450dEe7FD2Fb8E39061434BAbCFC05599a6Fb8
+  Contract:          Xen | 0x06450dEe7FD2Fb8E39061434BAbCFC05599a6Fb8
   
  
 * Ethereum POW:
-  Contract:    vvxen | 0x2AB0e9e4eE70FFf1fB9D67031E44F6410170d00e
+  Contract:        vvxen | 0x2AB0e9e4eE70FFf1fB9D67031E44F6410170d00e
   
    
 * Evmos
-  Contract:    coXen | 0x2AB0e9e4eE70FFf1fB9D67031E44F6410170d00e
+  Contract:        coXen | 0x2AB0e9e4eE70FFf1fB9D67031E44F6410170d00e
   
   
 * Fantom
-  Contract:    fmXen | 0xf65D307365C19E07A9EaB7Fc8EaAB28600C8FA54
+  Contract:        fmXen | 0xf65D307365C19E07A9EaB7Fc8EaAB28600C8FA54
   
 * Moonbeam
-  Contract:    mbXen | 0xb564A5767A00Ee9075cAC561c427643286F8F4E1
+  Contract:        mbXen | 0xb564A5767A00Ee9075cAC561c427643286F8F4E1
   
  
 * OKX Chain
-  Contract:    okXen | 0x1cC4D981e897A3D2E7785093A648c0a75fAd0453
+  Contract:        okXen | 0x1cC4D981e897A3D2E7785093A648c0a75fAd0453
   
   
 * Pulsechain:
-  Contract:    pXen | 0x8a7FDcA264e87b6da72D000f22186B4403081A2a
+  Contract:        pXen | 0x8a7FDcA264e87b6da72D000f22186B4403081A2a
   
    
 * Polygon
