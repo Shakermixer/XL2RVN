@@ -1,13 +1,6 @@
-About The Site
- 17th August 2023 at 2:08pm
-This site is running with TiddlyWiki, one of the most versatile ENVIRONMENTS i know of.
+Excuse me the rotten formatting of the Readme, for now i know that export runs from the site, crappy but runs. I will update every day.
 
-https://github.com/Jermolene/TiddlyWiki5
-
-https://tiddlywiki.com/
-
-Arbitrum
- 17th August 2023 at 2:12pm
+Arbitrum 17th August 2023 at 2:12pm
 Arbitrum is an optimistic rollup scaling solution, combining multiple transactions into one smart contract message for bulk processing on Ethereum.
 
 Branding
