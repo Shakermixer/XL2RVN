@@ -1,3 +1,4 @@
+Doing some content update & feed it into website, should not take too long.
 # XL2RVN
 
 ## A collection of Ideas to bring Xen to the Ravencoin Chain
