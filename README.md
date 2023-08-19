@@ -1,7 +1,6 @@
 Hi there, 
 
-!(https://github.com/Shakermixer/XL2RVN/assets/99077637/0a00b70c-d003-443f-b6c6-ebf2c897c9f8)
-
+this repo is from now for recycling material
 
 so all the readme info is in this repo:
 
