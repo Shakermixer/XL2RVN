@@ -5,7 +5,7 @@ Hi there,
 
 so all the readme info is in this repo:
 
-![site](https://shakermixer.github.io/XL2RVNSITE/)
+(https://shakermixer.github.io/XL2RVNSITE/)
 
 
 
