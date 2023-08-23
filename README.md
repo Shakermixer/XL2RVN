@@ -1,6 +1,6 @@
 Hi there, 
 
-this repo is from now for recycling material.
+this repo is from now for material like graphics and source codes.
 
 All the readme info is in this repo:
 
