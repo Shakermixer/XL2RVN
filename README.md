@@ -8,7 +8,8 @@ All the relevant info is in this file:
 
 for view, download and modification.
 
-I decided to outsource long code and the coding environment i am trying to build. The new Project here, in which i try to add blockchain stuff:
+I decided to outsource long code and the coding environment i am trying to build. The new Project here, in which i try to pack blockchain stuff, Gfx and IDE. I will see, how that will go. 
+
 
 ## https://shakermixer.github.io/TENV/
 
