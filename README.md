@@ -8,10 +8,15 @@ All the relevant info is in this file:
 
 for view, download and modification.
 
+We have a newcomer, the ravencoin raven in svg. 
+
 I decided to outsource long code and the coding environment i am trying to build. The new Project here, in which i try to pack blockchain stuff, Gfx and IDE. I will see, how that will go. 
 
 
 ## https://shakermixer.github.io/TENV/
+
+
+
 
 I also intend to create some css and gfx content & tools so i forked nes.css, made it grey & try to use it.
 
